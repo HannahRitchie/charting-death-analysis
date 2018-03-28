@@ -1,5 +1,5 @@
 An analysis of empirical death distributions vs media representation:
-![Animated everything graph](images/all_sources.gif)
+![Animated everything graph](images/all_animated.gif)
 
 <hr/>
 
